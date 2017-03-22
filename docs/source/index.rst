@@ -28,7 +28,7 @@ How can I have this?
 ********************
 Use pip to install from the Github repository::
     
-    pip install -e git+https://
+    pip install -e git+https://github.com/sircodesalittle/py_nic.git+egg=py_nic
 
    
    

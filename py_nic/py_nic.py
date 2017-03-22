@@ -8,7 +8,7 @@ class NIC(object):
     """Representation for a network interface controller.
     
     General Usage:
-        >>> from py_nic import NIC
+        >>> from py_nic.py_nic import NIC
         >>> import netifaces
         >>> interfaces = netifaces.interfaces()
         >>> interfaces
