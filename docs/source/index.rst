@@ -35,7 +35,7 @@ Use pip to install from the Github repository::
 
    
    
-py_nic module
+py_nic
 =============
 
 .. automodule:: py_nic
