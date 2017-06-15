@@ -1,0 +1,2 @@
+netifaces==0.10.6
+py-nic==1.0
