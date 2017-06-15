@@ -1,5 +1,8 @@
 import netifaces as ni
-import winreg as wr
+try:
+    import winreg as wr
+except ImportError:
+    import _winreg as wr
 from subprocess import Popen
 from pprint import pprint   
 
